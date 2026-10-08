@@ -7,8 +7,7 @@ source.include_exts = py,png,jpg,kv,atlas,json
 source.exclude_dirs = .venv
 version = 0.1.0
 
-# gurux-dlms 1.0.203 reports no Requires dependencies in pip metadata.
-requirements = python3,kivy==2.3.0,gurux-dlms
+requirements = python3,kivy==2.3.0
 
 orientation = portrait
 fullscreen = 0
